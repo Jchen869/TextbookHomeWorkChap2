@@ -5,11 +5,7 @@ import java.util.Scanner;
  * @version 1.0
  * Course: ITEC 2140 - 04, Spring 2023
  * Written: February 7, 2023
- * given the length, wight, height, of the room number of the windows and number of door
- * the program will calculate the gallons and quarts of paint are needed to paint the room.
- * for gallons print an integer value for the quarts print a real number no need to round down to integer
- * Assume that (1) ceiling is painted, (2) 1 gallon of paint covers about 350 square feet,
- * (3) each window is 15 square feet, and (4) each door is 21 square feet.
+ * This code will calculate the amount of paint in gallons and quarts needed to paint a room
  */
 public class Paint {
     public static void main(String[] args){

@@ -12,7 +12,7 @@ public class Time {
 
         Scanner time = new Scanner(System.in);
         System.out.print("Enter Seconds: ");
-        double seconds = time.nextInt();
+        int seconds = time.nextInt();
 
     }
 }
